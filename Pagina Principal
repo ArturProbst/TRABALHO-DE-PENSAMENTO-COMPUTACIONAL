@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title> Ponto de Trocas Pokemon Go </title>
+        <link rel="stylesheet" href="style-home.css">
+    </head>
+
+    <body>
+        <header>
+            <h1 class="titulo-principal">Ponto de Trocas Pokemon Go Attilio Codato </h1>
+        </header>
+        <img id="pokemongo" src="pokemongo.png">
+        <div class="principal">
+            <h2 class="titulo-centralizado"> Ponto de Trocas Pokemon Go </h2>
+
+            <p> Localizado em <strong> Attilio Codato Cambé Paraná</strong>, trazemos quantias grandes de pokemons de grande interesse aos consumidores </p>
+
+            <p id="missao"><em>Nossa missão: <strong>"Proporcionar um bom produto ao cliente que o deixe satisfeito"</…
