@@ -16,4 +16,24 @@
 
             <p> Localizado em <strong> Attilio Codato Cambé Paraná</strong>, trazemos quantias grandes de pokemons de grande interesse aos consumidores </p>
 
-            <p id="missao"><em>Nossa missão: <strong>"Proporcionar um bom produto ao cliente que o deixe satisfeito"</…
+            <p id="missao"><em>Nossa missão: <strong>"Proporcionar um bom produto ao cliente que o deixe satisfeito"</strong>. </em></p>
+
+            <p> Oferecemos pokemons shinys, de evento e comuns porem raros para serem trocados. Atendimento:13:30 às 17:00 </p>
+        </div>
+
+        <div class="beneficios">
+
+            <h3 class="titulo-centralizado">Benefícios</h3>
+        
+        <ul>
+            <li class="itens">Shinys de qualquer interesse </li>
+            <li class="itens">Pokemons de evento fashions </li>
+            <li class="itens">Pokemons Raros</li>
+            <li class="itens">Caso tenha sorte pode conseguir um lucky </li>
+        </ul>
+        <img src="pokemongo2.png" class="imagembeneficios">
+        </div>
+
+    </body>
+
+</html>
